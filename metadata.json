@@ -1,0 +1,6 @@
+{
+  "name": "Today's MBA Business Brief",
+  "description": "Turn today's Indian business news into MBA case-study insights powered by Anaconda Agent Studio integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
